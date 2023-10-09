@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+
+body{
+    background-color: #1b2330;
+}
+.header{
+    margin-left: 50px;
+    margin-top: 50px;
+    
+}
+.imgg{
+margin-top: 80px;
+margin-left: 230px;
+}
+
+    
+.h1{
+    color: white;
+    margin-left: 400px;
+    margin-top: 50px;
+
+}
+.title{
+    color: white;
+    margin-left: 390px;
+    margin-bottom: 50px;
+
+}
+.div{
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    background-color: rgb(9, 179, 246);
+    border-radius: 25px;
+    border: solid rgb(6, 180, 248);
+    color: white;
+    width: 200px;
+    height: 50px;
+    margin-left: 450px;
+}
